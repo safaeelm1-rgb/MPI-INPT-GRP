@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Maroc Procurement Intelligence (MPI)",
+  "description": "AI-driven platform optimizing Moroccan public procurement via anomaly detection, SME matching, and predictive governance for enhanced national transparency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
