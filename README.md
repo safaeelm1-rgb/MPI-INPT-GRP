@@ -17,6 +17,13 @@ Faire du Maroc un leader régional de la gouvernance numérique en mettant l’I
 MPI ambitionne de devenir la plateforme nationale de référence pour l’analyse, la surveillance et l’optimisation des achats publics.
 
 ---
+Ce projet a été realisé par :
+— Safae Elhamdaoui
+— Malak Malk
+— Hafssa Sajia
+— Fatimazahra AitOuaarab
+— Sanae Soujaa
+— Nizar Es-samy
 
 # Fonctionnalités Principales
 
