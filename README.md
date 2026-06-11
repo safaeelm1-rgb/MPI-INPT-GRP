@@ -250,9 +250,8 @@ MPI contribue à :
 ### « الذكاء الاصطناعي في خدمة الطلبيات العمومية المغربية »
 
 
-This contains everything you need to run the app locally.
-
-https://ai.studio/apps/aab8f6ff-0aa3-4dc8-9ac1-5d37fc3c043c
+Notre prototype:
+https://remix-maroc-procurement-intelligence-mpi-691121808343.europe-west2.run.app
 
 ## Run Locally
 
